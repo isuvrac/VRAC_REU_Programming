@@ -1,4 +1,4 @@
-# reu-cpp-snippets
+# VRAC REU Programming
 Use this repository to refer back to what we learned in the lab. You can copy and paste code from these files as a starting point for your mini assignments.
 
 **/snippets** -> contains code snippets from what we learned in the lab lectures  
