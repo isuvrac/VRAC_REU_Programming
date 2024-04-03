@@ -20,7 +20,7 @@ You have ALREADY created a **solution** called *Assignments*, which contains all
 1. Right click on the solution name in the **Solution Explorer** window.
 2. Select **Add** -> **New Project**.
 ![NewProjectImage](images/new_project.png)
-3. Highlight **Console App** and click **Next**.
+3. Select **Console App** and click **Next**.
 4. Name your project (UpperCamelCase) and click **Create**.
 
 *A new project should automatically initialize a .cpp file with a **main()** function. If it doesn't, you can add a new file to the project (see below)*
