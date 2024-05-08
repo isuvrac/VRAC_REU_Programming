@@ -9,7 +9,7 @@ A MySQL database server and Node.js Express API have been set up on Nick’s Mac
 
 ### Ask Nick for the full URL of Nick's PC**
 
-![NewProjectImage](../images/reuchat_architecture.drawio.png)
+![NewProjectImage](../images/reuchat_architecture.png)
 Feel free to look at the code for the Node.js API in **api/** folder if you want!
 
 ## Task
