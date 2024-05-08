@@ -3,10 +3,10 @@ const mysql = require('mysql');
 
 //local mysql db connection
 const dbConn = mysql.createConnection({
-  host     : '10.24.221.149',
+  host     : 'nicks-mac.vrac.iastate.edu',
   user     : 'reu',
-  password : 'reupassword!2023',
-  database : 'reuchatdb'
+  password : 'reumysqldatabase24',
+  database : 'reuchat'
 });
 
 // connect to database
