@@ -19,7 +19,7 @@ Your job will be to create a **user-friendly** C++ console application which wil
 
 ### What you will learn
 - Creating a program control flow  
-- sending/recieving data accross a network using HTTP
+- Sending/recieving data accross a network using HTTP
 - Manipulating string data
 
 # Walkthrough
