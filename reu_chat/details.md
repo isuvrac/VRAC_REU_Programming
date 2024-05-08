@@ -55,12 +55,12 @@ std::string GET(std::string url) {
         std::cout << "404 Not Found: Make sure the URL is correct" << std::endl;
     }
     else if (status == "500") {
-		std::cout << "500 Internal Server Error: The server is not responding" << std::endl;
+        std::cout << "500 Internal Server Error: The server is not responding" << std::endl;
     }
     else if (status == "000") {
-		std::cout << "000 Error: Make sure the URL is correct" << std::endl;
-	}
-	else {
+	std::cout << "000 Error: Make sure the URL is correct" << std::endl;
+    }
+    else {
         std::cout << "Error: " << status << std::endl;
     }
 }
@@ -78,8 +78,8 @@ std::string POST(std::string url, std::string message) {
         body += buffer;
     }
     if (body == "200") {
-		return "200";
-	}
+        return "200";
+    }
     else {
         std::cout << "Error inserting message: Make sure the URL is correct" << std::endl;
     }
