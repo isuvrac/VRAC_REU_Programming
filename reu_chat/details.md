@@ -14,8 +14,8 @@ Feel free to look at the code for the Node.js API in **api/** folder if you want
 
 ## Task
 Your job will be to create a **user-friendly** C++ console application which will be able to accomplish two tasks:
-1. Fetch messages from the database on Nick's PC and display them to your console
-2. Send messages to the database on Nick's PC
+1. Fetch messages from the database on Nick's server and display them to your console
+2. Send messages to the database on Nick's server
 
 ### What you will learn
 - Creating a program control flow  
