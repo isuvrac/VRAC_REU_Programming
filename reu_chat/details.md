@@ -2,7 +2,7 @@
 Author: Nicholas Matthews
 
 ## Motivation
-Many projects at the VRAC involve multiple computers and applications that work together as a system. The C6 is a prime example of several computers communicating over a network. Within these, software libraries and application also need be cohesive and reliable. In this mini project, you will be adding a component to a chat server system.
+Many projects at the VRAC involve multiple computers and applications that work together as a system. The C6 is a prime example of several computers communicating over a network. Within these, software libraries and application also need be cohesive and reliable. In this mini project, you will be creating a client-side application to a chat server system.
 
 ## Description
 A MySQL database server and Node.js Express API have been set up on Nick’s in the VRAC. The database contains a single table of chat messages from REU students, and the Node.js API provides an easy way of programmatically fetching and adding chat messages into the database. The only this missing is a client-side application for sending and recieving chats. The architecture for the system is shown below…
