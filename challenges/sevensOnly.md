@@ -9,6 +9,7 @@ copy and paste the code below as a starting point for your solution.
 
 int main() {
     int numbers[10] = {1, 7, 3, 7, 5, 7, 7, 9, 10, 12};
+    int size = sizeof(numbers) / sizeof(numbers[0]);
     // Your code goes here
 }
 ```
