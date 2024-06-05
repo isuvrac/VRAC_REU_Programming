@@ -20,7 +20,7 @@ using namespace std;
 int main() {
     srand(time(NULL)); // setup random number generator behind the scenes
 
-    // Test out your bank account here
+    // Test out your Dice account here
 }
 ```
 
