@@ -23,4 +23,4 @@ int main() {
 ```
 
 ## Going Further (optional)
-Refer back to a previous problem where we wrote a program which divided the product of two numbers by the sum of two numbers. Create a new function which takes in 4 numbers and evaluates the same expression. Use your other functions within this function to calculate the result.
+Make one more function called **exponent**. This function should have 2 inputs (value and exponent). It should contain a for loop that repeatedly calls the multiply function and returns the result of the exponentiation.
